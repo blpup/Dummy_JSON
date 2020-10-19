@@ -1,0 +1,29 @@
+{
+  "name": "Ivy",
+  "nodes": [{
+    "name": "cpu-23-1",
+    "state": "down*",
+    "timestamp": "2020-09-15T19:29:04",
+    "reason": "none"
+  }, {
+    "name": "cpu-23-2",
+    "state": "down*",
+    "timestamp": "2020-09-15T19:29:04",
+    "reason": "none"
+  }, {
+    "name": "cpu-23-2",
+    "state": "down*",
+    "timestamp": "2020-09-15T19:29:04",
+    "reason": "none"
+  }, {
+    "name": "cpu-23-2",
+    "state": "up",
+    "timestamp": "2020-09-15T19:29:04",
+    "reason": "none"
+  }, {
+    "name": "cpu-23-2",
+    "state": "up",
+    "timestamp": "2020-09-15T19:29:04",
+    "reason": "none"
+  }]
+}
